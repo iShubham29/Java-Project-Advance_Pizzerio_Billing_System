@@ -1,0 +1,14 @@
+
+
+			PIZZERIO SALES REPORT ...
+
+  FROM : 2020-01-01  			 TO : 2023-07-14
+
+ Cashier's Secerete Code : 	  PIZRIO1234		    |  PIZRIO4325		 |  PIZRIO4951		     |  PIZRIO7823
+
+ Veg Pizzas              : 	  15       			    |  2       			 |  9       			 |  5
+ Non Veg Pizzas          : 	  15       			    |  1       			 |  4       			 |  0
+ Cold Drinks             : 	  14       			    |  2       			 |  10       			 |  6
+ Fries                   : 	  0       			    |  2       			 |  11       			 |  4
+ Toppings                : 	  14       			    |  2       			 |  8       			 |  3
+ Pizza's Order Canceled  : 	  0       			    |  0       			 |  0       			 |  0

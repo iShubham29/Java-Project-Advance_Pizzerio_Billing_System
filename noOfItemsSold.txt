@@ -1,0 +1,36 @@
+
+ TOPPINGS COLLECTION :  			  Sold Qty :	Total Collection : 
+
+ TOPPINGS COLLECTION :  			  Sold Qty :	Total Collection : 
+
+ TOPPINGS COLLECTION :  			  Sold Qty :	Total Collection : 
+1. Olives                        	: 17                  595
+2. Jalapeno                      	: 33                  1155
+3. Peprika                       	: 15                  525
+4. Onion                         	: 11                  385
+5. Corn                          	: 8                   280
+6. Paneer                        	: 7                   245
+7. Tomato                        	: 8                   280
+8. Mozzerella Cheese             	: 6                   210
+
+ TOPPINGS COLLECTION :  			  Sold Qty :	Total Collection : 
+1. Coke                          	: 75                  3000
+2. Pepsi                         	: 76                  3040
+3. Sprite                        	: 60                  2400
+4. Cold Coffee                   	: 17                  680
+5. Falvoured Milk                	: 13                  520
+6. Thumbs Up                     	: 7                   280
+7. 7up                           	: 2                   80
+8. Sting                         	: 5                   200
+9. Dew                           	: 1                   40
+
+ TOPPINGS COLLECTION :  			  Sold Qty :	Total Collection : 
+1. Classic Fries                 	: 11                  550
+2. Peri-Peri Fries               	: 12                  600
+3. Cheese Fries                  	: 4                   200
+4. Garlic French Fries           	: 6                   300
+5. Potato Wedges                 	: 5                   250
+6. Masala Fries                  	: 4                   200
+
+
+			TOTAL COLLECTIONS  :-  Rs. 16015
